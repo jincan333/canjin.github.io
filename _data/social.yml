@@ -1,6 +1,12 @@
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
+- title: Google Scholar
+  url: https://scholar.google.com/citations?user=RK-8dz0AAAAJ&hl=en
+  icon: fab fa-google-scholar
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://github.com/jincan333
   icon: fab fa-github
+- title: linkedin
+  url: https://https://www.linkedin.com/in/can-jin-a05573274/
+  icon: fab fa-linkedin
+- title: Twitter
+  url: https://twitter.com/JarvisJinCan
+  icon: fab fa-twitter

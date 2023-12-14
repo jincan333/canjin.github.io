@@ -3,7 +3,7 @@ description: Can Jin's Personal Website.
 author: Can Jin
 avatar: /white_photo.JPG
 email: jincan333@gmail.com
-skin: sunrise
+skin: sunset
 
 plugins:
   - jekyll-seo-tag
